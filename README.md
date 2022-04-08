@@ -8,9 +8,11 @@ I'm a master's student in Data Science at the University of San Francisco, gradu
 
 Technologies: Python, pandas, scikit-learn, PySpark, PyTorch, SQL (Postgres), and NoSQL (MongoDB). AWS (EC2, S3, EMR), Docker
 
-All projects from my school below are private - please get in touch with me for samples of my work.
+All projects from my school below are private - please get in touch with me for samples of my work.  
 
 
+
+## Projects. 
 
 
 ### Machine Learning:
