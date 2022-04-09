@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm [Mitch Veele](https://www.linkedin.com/in/mitch-veele/) - I'm a master's student in Data Science at the University of San Francisco, graduating in July 2022. I'm interested in Machine Learning Engineer, Data Scientist, and Data Engineer roles. My consistent trait throughout my work experience has always been to improve processes - such as organizing the tools and maintenance schedule in the electrician's shop or scraping web pages to automate a data process. Data Science is just the next step forward - building better data pipelines and automating the decision-making process. Please take a look at some of the projects below - I'm happy to send over anything that sparks your interest.
+Hi, I'm [Mitch Veele](https://www.linkedin.com/in/mitch-veele/) - I'm a master's student in Data Science at the University of San Francisco, graduating in July 2022. I'm interested in Machine Learning Engineer, Data Scientist, and Data Engineer roles. My consistent trait throughout my work experience has always been to improve processes - such as organizing the tools and the maintenance schedules in the electrician's shop or scraping web pages to automate a data process. Data Science is just the next step forward - building better data pipelines and automating the decision-making process. Please take a look at some of the projects below - I'm happy to send over anything that sparks your interest.
 
 # Projects
 Note: all projects from my school below are private - please get in touch with me for samples of my work.  
